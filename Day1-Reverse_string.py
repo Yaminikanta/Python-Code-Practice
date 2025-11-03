@@ -1,4 +1,4 @@
-# Day 1: Reverse String
+# Day 1
 # Question: Reverse a given string without using built-in functions.
 # Source: GeeksforGeeks
 
