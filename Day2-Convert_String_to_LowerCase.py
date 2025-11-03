@@ -15,5 +15,10 @@ def toLower (s):
 print(toLower("GHKKKgggg"))
 
 
+# using inbuild function
 
+def tolower(s):
+    return s.lower()
+
+print(tolower("QWERtyuioP"))
 
